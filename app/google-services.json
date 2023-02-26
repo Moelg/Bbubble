@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790503787157",
+    "project_id": "bbubble-chat",
+    "storage_bucket": "bbubble-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790503787157:android:b10a68a28e26fa6eeb299c",
+        "android_client_info": {
+          "package_name": "com.example.bbubble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790503787157-ighf88f44c5uelljb7eu7fc02oq207rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaETynSt8S2gyqrUdrgrkOjCZohxPAO2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790503787157-ighf88f44c5uelljb7eu7fc02oq207rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
